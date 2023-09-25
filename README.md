@@ -1,5 +1,7 @@
 # Bangumi Takeout
 
+need to update repo from time to time.
+
 # <span style="color:red">⚠️ 重要安全警告 ⚠️</span>
 
 <span style="color:red">⚠️ 如果在 **2023/3/7** 前使用过 **Bangumi Takeout More**，请务必阅读！⚠️ </span>
